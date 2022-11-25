@@ -7,7 +7,7 @@ Developer Email: it@mxp.hu
 Text Domain: mxp
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Version: 1.2.2
+Version: 1.3.5f
 Tested up to: 6.1.1
 
 Mixpakk API flatloop csomagfeladás WooCommerce webshopokhoz
