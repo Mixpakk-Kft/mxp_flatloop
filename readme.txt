@@ -1,16 +1,16 @@
 === Mixpakk Futárszolgálat és Webshoplogisztika ===
 
-Plugin Name: MXP Woocommerce Plugin
+Plugin Name: MXP Woocommerce Plugin Flatloop
 Developer: Pintér Gergely
 Developer URI: https://mxp.hu
 Developer Email: it@mxp.hu
 Text Domain: mxp
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Version: 1.3.5
+Version: 1.2.2
 Tested up to: 6.1.1
 
-Mixpakk API csomagfeladás WooCommerce webshopokhoz
+Mixpakk API flatloop csomagfeladás WooCommerce webshopokhoz
 
 == Description ==
 

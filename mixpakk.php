@@ -1,15 +1,15 @@
 <?php
 
 /**
- * Plugin Name: Mixpakk Futárszolgálat és Webshoplogisztika
- * Description: Mixpakk API csomagfeladás
+ * Plugin Name: Mixpakk Futárszolgálat és Webshoplogisztika Flatloop
+ * Description: Mixpakk API flatloop csomagfeladás
  * Author: Pintér Gergely
  * Author URI: https://mxp.hu
  * Author Email: it@mxp.hu
  * Developer: Mixpakk Kft.
  * Developer URI: https://mxp.hu
  * Text Domain: mxp
- * Version: 1.3.5
+ * Version: 1.2.2
  *
  * License: GNU General Public License v3.0
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -33,9 +33,9 @@ require 'plugin-update-checker/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $UpdateChecker = PucFactory::buildUpdateChecker(
-	'https://github.com/Mixpakk-Kft/mxp_woocommerce_plugin/',
+	'https://github.com/Mixpakk-Kft/mxp_flatloop/',
 	__FILE__,
-	'mxp_woocommerce_plugin'
+	'mxp_flatloop'
 );
 
 $UpdateChecker->getVcsApi()->enableReleaseAssets();
